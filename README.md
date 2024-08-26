@@ -1,4 +1,4 @@
 # GamePublish
 A template repository to publish games
 
-[Helper Files](helperfiles)
+[Google](https://www.google.co.uk/)
