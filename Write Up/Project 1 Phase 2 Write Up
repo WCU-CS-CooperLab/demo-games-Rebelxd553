@@ -1,0 +1,29 @@
+Owen Guo
+
+Project 1 Phase 2 Write Up
+
+How to play the game:
+     To play the game you would use the arrow keys on your keyboard. Your goal is to collect the fruits (bananas and oranges) in order to gain points and move on to the next level.
+Bananas are mandatory meaning that you must collect them all to move on to the next level. Oranges are simply there to give you extra points for collecting them.
+Your other goal is to avoid touching the cactuses and the spikes.
+
+Results of playtesting:
+     The results of playtesting was that the player character can move around and collect fruits. More obstacles (cactus and spikes) are generated with each level to make the game harder.
+The timer also counts down which gives the game more of a challenge as the player is also racing against time. The score is updated as player collects fruits and the game ends if the player touches a obstacle.
+
+4 changes that were made:
+  1. I decided to change the theme of the game. Originally the game was for the player character to collect coins. I changed the collectable item from coins to bananas. This also caused me to change the name of the game
+     since the original name (Coin Dash) no longer made sense and so I changed it to Fruit Dash. I set the range to only generate a number for number of bananas between 1 and 5 for each level. Then I added a new sound
+     to the game that will start playing when the player hits the start button.
+
+  2. I decided to add a new dynamic element called oranges that rewards the player. Oranges has it own look and animation but the sound was set as the same sound for collecting the bananas because it simply didn't make
+     any sense to make a new unique sound as oranges don't really make any specific sound. When the player collect a orange they get +1 on their score but I also made them not mandatory to collect because they are seen
+     as a sort of bonus points that the player can choose to collect or not without interfering with them progressing to the next level.
+
+  3. I added a new dynamic element called spike that would harm the player. It cointains it's own looks and animation but the sound was set to the same sound as game over because it didn't make any sense to have a certain 
+     specific sound for it. I made it so that the spike element operated the same as the cactus element where if a player touches it their character will die and the game would be over.
+
+  4. Finally I decided to give meaning to leveling by making the levels harder as the game progresses. The original obstacle is the cactus and so with each level the number of cactuses increases. For example, if the user
+     gets to level 5 they will be met with 5 cactuses. Once they get to level 10 they will be met with 10 cactuses. This will eventually cause the player to end the game because at some point the field of play will be 
+     covered with cactuses that it would be impossible for players to collect the bananas to move on to the next level. By doing this, I have essentially made a ending to the game that will force even the best players
+     to touch a spike or a cactus and die resulting in game over.
