@@ -8,4 +8,5 @@ A template repository to publish games
 
 [Player Scene finished] (player_scene_09_20/)
 
+[Coin Dash Project 1 Phase 1](Coin Dash Phase 1 Final Version/)
 [Coin dash Project 1 Phase 2 (This one works)](09_26_reupload/)
