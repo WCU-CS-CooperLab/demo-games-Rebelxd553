@@ -6,4 +6,4 @@ Website: https://wcu-cs-cooperlab.github.io/demo-games-Rebelxd553/
 
 [Coin Dash Project 1 Phase 1](Coin_Dash_Phase_1_Final_Version/)
 
-[Coin dash Project 1 Phase 2 (This one works)](09_26_reupload/)
+[Coin dash Project 1 Phase 2](Coin_Dash_Phase_2_Finished/)
