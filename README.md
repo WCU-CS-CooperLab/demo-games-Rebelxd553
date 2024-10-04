@@ -8,4 +8,4 @@ Website: https://wcu-cs-cooperlab.github.io/demo-games-Rebelxd553/
 
 [Coin dash Project 1 Phase 2](Coin_Dash_Phase_2_Finished/)
 
-[Space Rocks Project 2 Phase 2](Space_Rock_Phase_2)
+[Space Rocks Project 2 Phase 2](Space_Rocks_Phase_II)
