@@ -1,0 +1,41 @@
+Owen Guo
+
+Project 2 Phase 2 Write Up
+
+How to play the game:
+  To play the game you will use the arrow keys and spacebar on your keyboard. Your goal is to shoot at the plasma balls coming 
+  towards you while avoiding the enemy and their bullets and also the black hole. You can collect the power up which is in the 
+  shape of a lighting bolt. You receive points for shooting and destroying the plasma balls.
+
+Results of playtesting:
+  The results of playtesting was that the player could move around and shoot at plasma balls while also collecting powerups and 
+  avoiding black holes. More plasma balls are generated at each level to make the game harder. Shield also slowly regenerate
+  when damaged.
+
+4 changes that were made:
+  1. I decided to change the theme of the game. Originally the game was more geared towards the fun casual side. You had a funky
+     tune that played and you simply shot at asteriods. So for the change I decided to make it more into science fiction and add
+     a spooky tune to the game (a sound that reminds people more of the void of space) instead of the usual funky tune. 
+     Instead of asteriods which we are so familiar with, I decided to change it into plasma balls, something that is more out of science fiction. 
+     To make it somewhat realistic I decided to change the functions of it. Originally when you collided with a rock, you simply took damage 
+     and the rock exploded. But with the plasma balls you not only take damage but the plasma balls do not explode which means you can collide with 
+     it again and take more damage. Also I decided to give it a electricity sound to furthur make it somewhat realistic. The plasma balls also has
+     it's own animation. Also I made the plasma ball a one hit target to make the game somewhat easier.
+
+  2. I decided to then add a new dynamic element called powerup that would reward the player. The powerup has it's own look and animation. I decided not to
+     give it a sound because it didn't quite fit the theme. Because the game is more geared towards the horror theme, if I gave the powerup a jolly sound
+     then that gives the player a split second where they are somewhat relieved, but I want them to be on their toes the whole game. The powerup is a dynamic element
+     by giving the player a boost in firing speed. I purposely set the normal fire to a slower speed and when they collect the powerup their speed increase dramastically.
+     This gives the player more of a incentive to collect the powerup because not only does it gives you more firing speed, the ability also carries on to the next levels 
+     (if you can complete the levels fast enough before the powerup time runs out). Also the powerup only has a 50/50 change of spawning at each level and if the player 
+     doesn't collect it in one level it will disappear.
+
+  3. Next I decided to add another dynamic element that would harm the player known as the black hole. The black hole element has it's own looks, animation, and sound which
+     also adds to the horror theme as it is a sound of a woman screaming. What makes the black hole different than the other elements is it's abilities. Instead of having to
+     run into it multiple time for it to do more damage, the black hole does continous damage to the player for the amount of time they stay in it. And to make it more realistic
+     the damage the black hole does it rather high considering if you stay in it for mere seconds, you'll lose a life. The black hole also has a 50/50 spawn rate at each level.
+
+  4. Finally I decided to give meaning to leveling by making the levels harder as the game progresses. Since the main obstacle is the plasma balls, with each level more and more
+     plasma balls spawn. This forces the player to either have extreme focus or pure luck if they want to make it to the later levels. This way not only will there be a eventual 
+     end to the game but it will also give meaning to leveling because if the same amount of plasma balls spawn each round then, eventually the game would be at the same difficulty
+     no matter what level it is.
