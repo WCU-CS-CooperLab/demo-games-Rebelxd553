@@ -20,7 +20,9 @@ Results of playtesting:
      To make it somewhat realistic I decided to change the functions of it. Originally when you collided with a rock, you simply took damage 
      and the rock exploded. But with the plasma balls you not only take damage but the plasma balls do not explode which means you can collide with 
      it again and take more damage. Also I decided to give it a electricity sound to furthur make it somewhat realistic. The plasma balls also has
-     it's own animation. Also I made the plasma ball a one hit target to make the game somewhat easier.
+     it's own animation. Also I made the plasma ball a one hit target to make the game somewhat easier. But to balance that out I also made the enemy spaceship
+     resistant to the player's bullet and the only way to take out the enemy is to crash into them. This also makes it more realistic since human technology
+     is limited when compared to aliens.
 
   2. I decided to then add a new dynamic element called powerup that would reward the player. The powerup has it's own look and animation. I decided not to
      give it a sound because it didn't quite fit the theme. Because the game is more geared towards the horror theme, if I gave the powerup a jolly sound
