@@ -11,3 +11,5 @@ Website: https://wcu-cs-cooperlab.github.io/demo-games-Rebelxd553/
 [Space Rocks Project 2 Phase 1](Space_Rock_Phase_1)
 
 [Space Rocks Project 2 Phase 2](Space_Rocks_Phase_II)
+
+[3D Minigolf Phase 1](3D_Minigolf_Phase_I)
