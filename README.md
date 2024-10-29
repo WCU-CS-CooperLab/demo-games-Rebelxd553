@@ -15,3 +15,5 @@ Website: https://wcu-cs-cooperlab.github.io/demo-games-Rebelxd553/
 [3D Minigolf Phase 1](3D_Minigolf_Phase_I)
 
 [Jungle Jump](Jungle_Jump_Final)
+
+[Infinite Flyer](Infinite_Flyer_Final)
