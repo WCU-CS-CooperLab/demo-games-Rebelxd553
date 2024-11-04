@@ -16,4 +16,6 @@ Website: https://wcu-cs-cooperlab.github.io/demo-games-Rebelxd553/
 
 [Jungle Jump](Jungle_Jump_Final)
 
-[Infinite Flyer](Infinite_Flyer_Final)
+[Infinite Flyer](Infinite_Flyer_Phase_1)
+
+[Infinite Flyer](Infinite_Flyer_Phase_2)
