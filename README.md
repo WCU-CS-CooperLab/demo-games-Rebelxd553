@@ -19,3 +19,5 @@ Website: https://wcu-cs-cooperlab.github.io/demo-games-Rebelxd553/
 [Infinite Flyer Phase 1](Infinite_Flyer_Phase_1)
 
 [Infinite Flyer Phase 2](Infinite_Flyer_Phase_2)
+
+[Stone Bridge Escapade](Stone_Bridge_Escapade_Project)
