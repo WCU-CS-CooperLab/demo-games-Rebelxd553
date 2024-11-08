@@ -1,0 +1,12 @@
+Owen Guo
+
+Write up for Team Project 1
+
+  So for the first team project, Cody and I decided to make a game call Stone Bridge Escapade. The concept is rather simple. The king of the land is looking for a suitor for the
+princess and so you (the player) have to collect 4 treasures to make yourself worthy in the eyes of the king for his daughter's hand. But there are other suitors that will harm 
+you if you get close to them since they also want the princess's hand. You win once you collect all 4 treasures.
+
+In terms of my contribution to the project, I designed the sprites for the 4 treasure, the backgrounds for starting screen, the intro screen, the gameplay scene, game over scene, 
+and the victory scene. And I also picked out the background music. Cody was in charge of designing the player and enemy sprite. In terms of the coding part we evenly split the 
+scenes where we wrote code/fix each other's code for the scenes ranging from gameplay to each item, to the enemy scene. We also collaborated together on the global.gd with cody 
+creating it and me implementing it so that it runs on the game itself. 
