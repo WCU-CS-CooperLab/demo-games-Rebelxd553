@@ -24,6 +24,8 @@ PROJECTS
 
 [Stone Bridge Escapade](Stone_Bridge_Escapade_Project)
 
+[Project4](Project4/)
+
 Class Scenes
 
 [Player Scene 08/30](player_scene_08_30/)
