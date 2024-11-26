@@ -1,0 +1,24 @@
+Project 4 Write Up
+
+So for project 4 I create my own version of the quiz game from class. The problem I'm having is the online porting part where I have no idea on how to do it. I've uploaded my project 4 like how we usually do with 
+project 1-3 and I also looked at the game.wcpc.fun setup video and I still can't figure it out. In terms of the game.wcpc.fun setup video, everything works and i'm pretty sure I have my project 4's .pck and .x86_64
+files uploaded onto game.wcpc.fun. But when it comes to my demo games repository I don't know how to make this thing work. I also included my project 4's .pck and .x86_64 files in my project 4 folder in demo games.
+
+In terms of the game itself I added a background to the main scene that starts the game. In the main scene you have two options, one is host (this goes to the server scene) and the other is player (this would be the
+client scene). If you click on the host, it causes you to go to the server scene where you (as the host) have the ability to start the game. If you click on the player button (titled: unfortunate player) then you 
+will go to the login screen where you enter in name and type. The login screen gives you the login info for the 4 characters you can choose from. It also has a little backstory to get you started on what the game
+is about. Once you login and the host starts the game, it'll turn to a new scene where you see the questions and 4 buttons (4 different answers you can choose from). Once any player makes a choice whether right 
+or wrong, the game will move on to the next question. If the player chooses right, the game will tell you that the player chose the right answer, if the player chose the wrong answer then it will tell you that you
+chose the wrong answer. There are a total of 30 questions. Once all questions have been answered you will be led to the game over scene where you have the choice to start a new game or exit the game.
+
+So on godot almost everything works fine. I can play the game with multiple instances and it works. The status part doesn't really work where you see initial status but it for some reason doesn't update when players
+click the right answer and I'm not sure why. The chat also partly works because you can send messages but other players for some reason cannot see them. I know this because I added debug prints and it'll say things
+like Player... sent the message: "hi". The debugs for other players status also shows that it works but the UI isn't updated for some reason. I know this because the debug prints will say Score: (Magnus: 1, Rae:0)
+
+In terms of parallel play, all players can play at the same time. In terms of if the game is fun to play, I would say it's pretty fun as some questions require thinking while other questions fit more with the theme.
+The theme is a scary quiz game where the story is more or less like this: "You stumble across this game that tells you that you are chosen to play this game and you have no choice. If you play there's a chance to win,
+if you don't play, you die. This forces the player to play and they will be asked questions in 3 different categories (riddle, history, horror). Once all 30 questions are answered they will go to the game over scene 
+which tells them that it didn't matter if they beat other players by getting more qusetions right, they're soul is still trapped in this game and the only way to get it back would be to play again and win. This 
+essentially forces players to keep player if they believe what the game says or risk dying if they don't believe what the game says.
+
+So the problem still goes back to how to export onto github and having the web version running so that players can start playing the game immediately. 
