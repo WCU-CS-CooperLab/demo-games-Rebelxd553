@@ -24,7 +24,7 @@ PROJECTS
 
 [Stone Bridge Escapade](Stone_Bridge_Escapade_Project)
 
-[Project 4](Project_4/)
+[Project 4](Project_4_Linux_Final/)
 
 Class Scenes
 
