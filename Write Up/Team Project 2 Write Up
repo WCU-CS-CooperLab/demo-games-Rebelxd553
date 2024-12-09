@@ -1,0 +1,12 @@
+Team Project 2 Write up
+
+So originally I was in a group with cody and we were working on the idea of making a tic tac toe game that constantly expanded upon the end of each game and instead of your normal X and O as the 
+usuable variables we were going to put in characters like chess pieces. The concept of the game was basically you start off with a 3x3 board. After the first round is over it transitions to a 4x4 board,
+then to a 5x5 board and so on till 7 levels are played resulting in a 9x9 board. And the way to winning will also be increase with 3 in a row for the 3x3 and 4x4 board, then 4 in a row for the 5x5,6x6,7x7 board,
+and 5 in a row for the 8x8 and 9x9 board. I was in charge of creating the pieces, the background art, the board, the buttons... Cody was in charge of creating things like the chat, the multiplayer functions, 
+login/lobby screens... And we were supposed to take our parts and combined them at the end of thanksgiving break. But I didn't hear from him during the whole break and when I finally did hear from him,
+I was told that he would be withdrawing from the class and so there was no longer his portion of the work to put together with my portion. 
+
+So then I joined another group (The GameMakers) who were willing to take me into their group. But for the most part they were done with the game with only small revisions left and do I didn't have much to 
+contribute to them. I mainly helped with the errors they were encountering most notably the error in the player scene where it had a parsing file error. So my contributions was mainly just helping out with small
+issues. In terms of the project, the project is inspired by the game (Agario) where you go around collecting xp orbs making the character bigger and a score is kept. Once the time is up a leaderboard is displayed. 
