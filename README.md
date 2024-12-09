@@ -26,6 +26,8 @@ PROJECTS
 
 [Project 4](Project_4_Linux_Final/)
 
+[Team Project 2] (Team_Project_2/)
+
 Class Scenes
 
 [Player Scene 08/30](player_scene_08_30/)
